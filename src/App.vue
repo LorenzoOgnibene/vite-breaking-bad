@@ -21,8 +21,8 @@
 </template>
 
 <style lang="scss">
-  @use './style/general.scss';
-  @use './style/variables';
+  @use './style/general.scss' as*;
+  @use './style/variables'as*;
   @import 'bootstrap/scss/bootstrap.scss';
 
 </style>

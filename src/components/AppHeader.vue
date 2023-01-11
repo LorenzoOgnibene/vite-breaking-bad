@@ -7,7 +7,7 @@
 <template>
     <div class="header-wrapper">
         <img src="" alt="">
-        <h1 class="">Yu-Gi-Oh</h1>
+        <h1 class="text-center">Yu-Gi-Oh</h1>
     </div>
 </template>
 
